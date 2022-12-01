@@ -1,0 +1,20 @@
+:root {
+  --font-size-3xs: 14px;
+  --font-size-2xs: 15px;
+  --font-size-xs: 16px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 22px;
+  --font-size-xl: 25px;
+  --font-size-2xl: 30px;
+  --font-size-3xl: 50px;
+  --color-white: #fff;
+  --color-brown-100: #f26b5b;
+  --color-brown-200: #fa5959;
+  --color-gray-100: #c4c4c4;
+  --color-gray-200: #444053;
+  --br-sm: 5px;
+  --br-md: 10px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
