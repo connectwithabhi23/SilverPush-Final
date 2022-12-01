@@ -1,0 +1,1534 @@
+@media (max-width: 420px) {
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+
+  .vector-icon {
+    width: 105.56px;
+    height: 93.14px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .create-your-own-online-brand {
+    width: 75.3px;
+    height: 39.41px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 26.59px;
+    left: 14.79px;
+  }
+
+  .group-div2 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    position: absolute;
+    top: 96.41px;
+    left: 35.21px;
+  }
+
+  .vector-icon1 {
+    width: 92.15px;
+    height: 84.44px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .sell-from-home-kitchen {
+    width: 74.59px;
+    height: 46.44px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 18.52px;
+    left: 8.76px;
+  }
+
+  .group-div3 {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 129.48px;
+    left: 156.24px;
+  }
+
+  .resell-and-earn, .vector-icon2 {
+    width: 161.85px;
+    height: 140.74px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .resell-and-earn {
+    width: 85.24px;
+    height: 57.19px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    top: 41.45px;
+    left: 23px;
+  }
+
+  .group-div4 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-xl);
+    position: absolute;
+    top: 200.55px;
+    left: 0;
+  }
+
+  .vector-icon3 {
+    width: 140.74px;
+    height: 111.37px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .become-an-online-influencer {
+    width: 84.44px;
+    height: 47.85px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 32.15px;
+    left: 27.72px;
+  }
+
+  .group-div5 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-xl);
+    position: absolute;
+    top: 47.85px;
+    left: 239.28px;
+  }
+
+  .vector-icon4 {
+    width: 84.44px;
+    height: 62.63px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .learn-marketing-b {
+    width: 59.11px;
+    height: 33.78px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 14.89px;
+    left: 12.48px;
+  }
+
+  .group-div6 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-xs);
+    position: absolute;
+    top: 306.11px;
+    left: 98.52px;
+  }
+
+  .vector-icon5 {
+    width: 70.37px;
+    height: 78.55px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .create-an-infoor-farm {
+    width: 46.91px;
+    height: 38.47px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 20.18px;
+    left: 11.76px;
+  }
+
+  .group-div7 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-xs);
+    position: absolute;
+    top: 242.07px;
+    left: 182.95px;
+  }
+
+  .vector-icon6 {
+    width: 105.56px;
+    height: 90.13px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .making-and-selling-soaps {
+    width: 102px;
+    height: 33px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 28.6px;
+    left: 3.63px;
+  }
+
+  .group-div8 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    position: absolute;
+    top: 172.4px;
+    left: 253.37px;
+  }
+
+  .baking-course, .vector-icon7 {
+    width: 70.48px;
+    height: 70.37px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .baking-course {
+    width: 45.74px;
+    height: 35.19px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    top: 17.22px;
+    left: 12.49px;
+  }
+
+  .group-div9 {
+    width: 0;
+    height: 0;
+    color: var(--color-white);
+    position: absolute;
+    top: 337.78px;
+    left: 193.51px;
+  }
+
+  .vector-icon8 {
+    width: 105.56px;
+    height: 127.09px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .become-a-makeup-artist {
+    width: 77px;
+    height: 49px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 38.7px;
+    left: 14.58px;
+  }
+
+  .group-div10 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-xl);
+    position: absolute;
+    top: 265.3px;
+    left: 274.42px;
+  }
+
+  .nutritionist-b, .vector-icon9 {
+    width: 84.44px;
+    height: 85.65px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .nutritionist-b {
+    width: 78px;
+    height: 14px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    top: 36px;
+    left: 4.48px;
+  }
+
+  .group-div11, .vector-icon10 {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    left: 22.52px;
+  }
+
+  .vector-icon10 {
+    width: 70.85px;
+    height: 105.56px;
+    left: 0;
+  }
+
+  .become-an-insurance-agent {
+    width: 69px;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 30.48px;
+    left: 1.19px;
+  }
+
+  .group-div12 {
+    width: 0;
+    height: 0;
+    font-size: var(--font-size-xs);
+    color: var(--color-white);
+    position: absolute;
+    top: 3.52px;
+    left: 147.81px;
+  }
+
+  .group-div1 {
+    top: 0;
+    left: 0;
+  }
+
+  .group-div, .group-div1, .group-icon {
+    width: 0;
+    height: 0;
+    position: absolute;
+  }
+
+  .group-div {
+    text-align: center;
+    font-size: var(--font-size-sm);
+    display: none;
+    top: 1530px;
+    left: 20px;
+  }
+
+  .group-icon {
+    object-fit: cover;
+    top: 0;
+    left: 0;
+  }
+
+  .become-a-makeup-artist1 {
+    width: 112px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 25px;
+    left: 66px;
+  }
+
+  .group-div13 {
+    width: 178px;
+    height: 55px;
+    display: none;
+    position: absolute;
+    top: 3009px;
+    left: 28px;
+  }
+
+  .resell-and-earn1 {
+    width: 70px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 55px;
+    left: 51px;
+  }
+
+  .group-div14 {
+    width: 121px;
+    height: 85px;
+    display: none;
+    position: absolute;
+    top: 2990px;
+    left: 250px;
+  }
+
+  .create-an-indoor-farm {
+    width: 85px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 60px;
+    left: 50px;
+  }
+
+  .group-div15 {
+    width: 135px;
+    height: 90px;
+    display: none;
+    position: absolute;
+    top: 3244px;
+    left: 20px;
+  }
+
+  .become-a-fashion-designer {
+    width: 114px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 55px;
+    left: 48px;
+  }
+
+  .group-div16 {
+    width: 162px;
+    height: 85px;
+    display: none;
+    position: absolute;
+    top: 3203px;
+    left: 116px;
+  }
+
+  .become-a-photographer {
+    width: 100px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 60px;
+    left: 22px;
+  }
+
+  .group-div17 {
+    width: 122px;
+    height: 90px;
+    display: none;
+    position: absolute;
+    top: 3171px;
+    left: 278px;
+  }
+
+  .rectangle-div {
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    width: 380px;
+    height: 250px;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    box-shadow: 2px 10px 16px #65617d33;
+  }
+
+  .if-you-want-to-know-how-to-sel, .online-selling-div {
+    width: 220px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    left: 20px;
+  }
+
+  .online-selling-div {
+    font-size: var(--font-size-3xl);
+    height: 30px;
+    font-weight: 900;
+    top: 40px;
+  }
+
+  .if-you-want-to-know-how-to-sel {
+    text-align: justify;
+    height: 100px;
+    top: 80px;
+  }
+
+  .mask-group-icon4, .mask-group-icon5 {
+    width: 0;
+    height: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 240px;
+  }
+
+  .mask-group-icon5 {
+    top: 260px;
+    left: 0;
+  }
+
+  .learn-more-div {
+    width: 84px;
+    height: 20px;
+    align-items: center;
+    font-weight: 900;
+    display: flex;
+    position: absolute;
+    top: -20px;
+    left: 0;
+  }
+
+  .group-div19 {
+    width: 0;
+    height: 0;
+    transform-origin: 0 0;
+    color: var(--color-brown-200);
+    position: absolute;
+    top: 220px;
+    left: 20px;
+    transform: rotate(-90deg);
+  }
+
+  .group-icon2, .rectangle-div1 {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    left: 3px;
+  }
+
+  .rectangle-div1 {
+    border-radius: var(--br-xs);
+    background-color: var(--color-white);
+    width: 40px;
+    height: 40px;
+    left: 0;
+    box-shadow: 1px 5px 8px #65617d33;
+  }
+
+  .marketplace-div, .storefront-digital-marketing-icon {
+    width: 0;
+    height: 0;
+    position: absolute;
+  }
+
+  .marketplace-div {
+    width: 33.6px;
+    height: 8px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    top: 26px;
+    left: 3.2px;
+  }
+
+  .group-div22 {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 80px;
+    left: 0;
+  }
+
+  .group-div20, .group-div21, .group-div23 {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    left: 153px;
+  }
+
+  .group-div20, .group-div21 {
+    top: 30px;
+    left: 0;
+  }
+
+  .group-div20 {
+    text-align: center;
+    font-size: var(--font-size-2xs);
+    color: var(--color-gray-300);
+    top: 100px;
+    left: 167px;
+  }
+
+  .group-div18 {
+    width: 380px;
+    height: 270px;
+    font-size: var(--font-size-base);
+    display: none;
+    position: absolute;
+    top: 1530px;
+    left: 20px;
+  }
+
+  .group-icon6 {
+    width: 201px;
+    height: 199.87px;
+    position: absolute;
+    top: 0;
+    left: 68px;
+  }
+
+  .steps-to-start-earning-with-br {
+    font-size: var(--font-size-7xl);
+    width: 380px;
+    height: 80px;
+    align-items: center;
+    font-weight: 900;
+    display: flex;
+    position: absolute;
+    top: 69.23px;
+    left: 88px;
+  }
+
+  .rectangle-div3, .rectangle-div4, .rectangle-div5 {
+    background-color: var(--color-tan);
+    width: 146.41px;
+    height: 146.41px;
+    transform-origin: 0 0;
+    position: absolute;
+    top: 345.44px;
+    left: 347px;
+    transform: rotate(-30deg);
+  }
+
+  .rectangle-div4, .rectangle-div5 {
+    top: 841.44px;
+    left: 0;
+  }
+
+  .rectangle-div5 {
+    top: 1247.44px;
+    left: 233px;
+  }
+
+  .find-a-course-which-matches-yo, .pick-a-course {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    left: 0;
+  }
+
+  .pick-a-course {
+    width: 220px;
+    height: 20px;
+    font-weight: 900;
+    top: 0;
+  }
+
+  .find-a-course-which-matches-yo {
+    font-size: var(--font-size-base);
+    text-align: justify;
+    width: 380px;
+    height: 50px;
+    top: 30px;
+  }
+
+  .group-div26, .group-icon7 {
+    width: 380px;
+    height: 80px;
+    position: absolute;
+    top: 180px;
+    left: 0;
+  }
+
+  .group-icon7 {
+    height: 61.54%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    top: 0;
+    bottom: 38.46%;
+    right: 0;
+    overflow: hidden;
+  }
+
+  .group-div25, .group-div28, .group-icon8 {
+    width: 380px;
+    height: 260px;
+    position: absolute;
+    top: 189.23px;
+    left: 88px;
+  }
+
+  .group-div28, .group-icon8 {
+    height: 80px;
+    top: 299px;
+    left: 0;
+  }
+
+  .group-icon8 {
+    height: 73.78%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    top: 0;
+    bottom: 26.22%;
+    right: 0;
+    overflow: hidden;
+  }
+
+  .group-div27 {
+    width: 380px;
+    height: 379px;
+    position: absolute;
+    top: 500.23px;
+    left: 88px;
+  }
+
+  .start-your-home-business-to-ad {
+    font-size: var(--font-size-base);
+    text-align: justify;
+    width: 380px;
+    height: 21px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 30px;
+    left: 0;
+  }
+
+  .group-div30, .group-icon9 {
+    width: 380px;
+    height: 51px;
+    position: absolute;
+    top: 252px;
+    left: 0;
+  }
+
+  .group-icon9 {
+    height: 76.72%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    top: 0;
+    bottom: 23.28%;
+    right: 0;
+    overflow: hidden;
+  }
+
+  .group-div24, .group-div29 {
+    width: 380px;
+    height: 303px;
+    position: absolute;
+    top: 929.23px;
+    left: 88px;
+  }
+
+  .group-div24 {
+    width: 547px;
+    height: 1374.23px;
+    font-size: var(--font-size-3xl);
+    top: 2390.77px;
+    left: -68px;
+  }
+
+  .rectangle-icon {
+    width: 500px;
+    height: 459px;
+    position: absolute;
+    top: 101px;
+    left: 59px;
+  }
+
+  .group-icon10, .group-icon11 {
+    width: 181.79px;
+    height: 122px;
+    position: absolute;
+    top: 269px;
+    left: 59px;
+  }
+
+  .group-icon11 {
+    width: 355.29px;
+    height: 349.97px;
+    object-fit: cover;
+    top: -24.99px;
+    left: 8.99px;
+  }
+
+  .become-self-reliant, .start-your-own-business-or-ser {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    left: 0;
+  }
+
+  .become-self-reliant {
+    width: 320px;
+    height: 80px;
+    font-weight: 900;
+    top: 310px;
+  }
+
+  .start-your-own-business-or-ser {
+    font-size: var(--font-size-xl);
+    width: 380px;
+    height: 40px;
+    top: 400px;
+  }
+
+  .rectangle-div6 {
+    border-radius: var(--br-md);
+    background-color: var(--color-brown-100);
+    width: 100px;
+    top: 0;
+    left: 0;
+  }
+
+  .group-div33, .rectangle-div6, .see-how-b {
+    height: 40px;
+    position: absolute;
+  }
+
+  .see-how-b {
+    width: 71px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    top: 0;
+    left: 15px;
+  }
+
+  .group-div33 {
+    width: 100px;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    top: 460px;
+    left: 0;
+  }
+
+  .group-div32 {
+    width: 380px;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 96px;
+  }
+
+  .group-icon12, .vector-icon11 {
+    width: 78.81px;
+    height: 80px;
+    position: absolute;
+    top: 530px;
+    left: 96px;
+  }
+
+  .vector-icon11 {
+    width: 102.7px;
+    height: 100px;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+  }
+
+  .banker-earns-upto-25k-monthly, .rahul-mahajan-b {
+    width: 185px;
+    height: 20px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .banker-earns-upto-25k-monthly {
+    font-size: var(--font-size-xs);
+    width: 270px;
+    height: 19px;
+    top: 20px;
+  }
+
+  .group-div35 {
+    width: 270px;
+    height: 39px;
+    position: absolute;
+    top: 85px;
+    left: 72px;
+  }
+
+  .group-div31, .group-div34 {
+    width: 342px;
+    height: 124px;
+    font-size: var(--font-size-xl);
+    position: absolute;
+    top: 565px;
+    left: 124px;
+  }
+
+  .group-div31 {
+    width: 533px;
+    height: 689px;
+    font-size: var(--font-size-7xl);
+    top: 1651px;
+    left: -59px;
+  }
+
+  .group-icon13, .rectangle-icon1 {
+    width: 557px;
+    height: 598px;
+    position: absolute;
+    top: 100px;
+    left: 78px;
+  }
+
+  .group-icon13 {
+    width: 204px;
+    height: 201px;
+    top: 179px;
+    left: 288px;
+  }
+
+  .group-icon14, .rectangle-icon2 {
+    width: 435.73px;
+    height: 380.86px;
+    position: absolute;
+    top: 330.67px;
+    left: 82.86px;
+  }
+
+  .group-icon14 {
+    width: 252.56px;
+    height: 211.8px;
+    object-fit: cover;
+    top: -10.45px;
+    left: 0;
+  }
+
+  .start-learning-today, .talk-to-our-experts-and-start {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    left: 0;
+  }
+
+  .start-learning-today {
+    width: 320px;
+    height: 80px;
+    font-weight: 900;
+    top: 220px;
+  }
+
+  .talk-to-our-experts-and-start {
+    font-size: var(--font-size-xl);
+    width: 186px;
+    height: 70px;
+    top: 310px;
+  }
+
+  .rectangle-div7 {
+    border-radius: var(--br-md);
+    background-color: var(--color-brown-100);
+    width: 190px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .book-a-free-consultation {
+    width: 169px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 11px;
+  }
+
+  .group-div38, .group-div39 {
+    width: 190px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .group-div38 {
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    top: 400px;
+  }
+
+  .group-div37, .group-icon15 {
+    width: 320px;
+    height: 440px;
+    position: absolute;
+    top: 0;
+    left: 98px;
+  }
+
+  .group-icon15 {
+    width: 44px;
+    height: 30px;
+    top: 590px;
+    left: 434px;
+  }
+
+  .privacy-policy-div, .terms-and-conditions {
+    width: 85px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .terms-and-conditions {
+    width: 131px;
+    left: 115px;
+  }
+
+  .group-div40, .yukti-all-right-reserved {
+    width: 246px;
+    height: 30px;
+    font-size: var(--font-size-xl);
+    position: absolute;
+    top: 520px;
+    left: 98px;
+  }
+
+  .yukti-all-right-reserved {
+    font-size: var(--font-size-xs);
+    width: 241px;
+    height: 20px;
+    align-items: center;
+    line-height: 18px;
+    display: flex;
+    top: 600px;
+  }
+
+  .group-div36 {
+    width: 557px;
+    height: 711.53px;
+    font-size: var(--font-size-7xl);
+    position: absolute;
+    top: 3840px;
+    left: -78px;
+  }
+
+  .group-icon16 {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 23px;
+    left: 116px;
+  }
+
+  .find-what-matches-your-interes, .group-div42 {
+    width: 380px;
+    height: 80px;
+    position: absolute;
+    top: 0;
+  }
+
+  .find-what-matches-your-interes {
+    align-items: center;
+    font-weight: 900;
+    display: flex;
+    left: 0;
+  }
+
+  .group-div42 {
+    left: 136px;
+  }
+
+  .group-icon17, .rectangle-div8 {
+    width: 197.15px;
+    height: 300px;
+    position: absolute;
+    top: 260px;
+    left: 331px;
+  }
+
+  .rectangle-div8 {
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    width: 250px;
+    top: 0;
+    left: 0;
+    box-shadow: 2px 10px 16px #65617d33;
+  }
+
+  .learn-online-selling {
+    font-size: var(--font-size-3xl);
+    width: 190px;
+    height: 50px;
+    align-items: center;
+    font-weight: 900;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .book-now-div, .lern-how-to-sell-products-onli {
+    width: 210px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 50px;
+    left: 0;
+  }
+
+  .book-now-div {
+    width: 88px;
+    height: 20px;
+    font-weight: 900;
+    top: 0;
+  }
+
+  .group-icon18 {
+    height: 25%;
+    width: 16.67%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    inset: 40% 0 35% 83.33%;
+    overflow: hidden;
+  }
+
+  .group-div46, .group-div47 {
+    width: 90px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .group-div46 {
+    color: var(--color-brown-200);
+    top: 110px;
+    left: 1px;
+  }
+
+  .group-div45 {
+    width: 210px;
+    height: 130px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+
+  .group-icon19, .rectangle-div9 {
+    width: 153.99px;
+    height: 160px;
+    position: absolute;
+    top: 0;
+    left: 11.18px;
+  }
+
+  .rectangle-div9 {
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    width: 32.72px;
+    height: 33.21px;
+    left: 0;
+    box-shadow: 4px 20px 32px #65617d33;
+  }
+
+  .tracking-icon1 {
+    height: 40%;
+    width: 52.17%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    inset: 20% 23.83% 40% 24%;
+    overflow: hidden;
+  }
+
+  .shipping-div1 {
+    width: 27.48px;
+    height: 6.64px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 21.58px;
+    left: 2.62px;
+  }
+
+  .group-div50 {
+    width: 32.72px;
+    height: 33.21px;
+    position: absolute;
+    top: 0;
+    left: 137.95px;
+  }
+
+  .group-icon20, .group-icon21 {
+    height: 22.91%;
+    width: 13.79%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    inset: 19.6% 57.6% 57.5% 28.6%;
+    overflow: hidden;
+  }
+
+  .group-icon21 {
+    height: 22.83%;
+    width: 13.23%;
+    inset: 77.17% 46.69% 0 40.08%;
+  }
+
+  .rectangle-div10 {
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 4px 20px 32px #65617d33;
+  }
+
+  .storefront-digital-marketing-icon1 {
+    height: 42.69%;
+    width: 40.06%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    inset: 17.14% 28.51% 40.16% 31.43%;
+    overflow: hidden;
+  }
+
+  .marketplace-div1 {
+    width: 34px;
+    height: 7px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 23px;
+    left: 0;
+  }
+
+  .group-div51, .group-icon22 {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 58.78px;
+    left: 0;
+  }
+
+  .group-icon22 {
+    height: 22.83%;
+    width: 34.02%;
+    max-width: 100%;
+    max-height: 100%;
+    inset: 54.79% 0 22.37% 65.98%;
+    overflow: hidden;
+  }
+
+  .group-div44, .group-div48, .group-div49 {
+    width: 200px;
+    height: 121.2px;
+    position: absolute;
+    top: 3.22px;
+    left: 0;
+  }
+
+  .group-div44, .group-div48 {
+    height: 160px;
+    text-align: center;
+    font-size: var(--font-size-2xs);
+    color: var(--color-gray-300);
+    top: 140px;
+    left: 21px;
+  }
+
+  .group-div44 {
+    width: 250px;
+    height: 300px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-200);
+    top: 0;
+    left: 85px;
+  }
+
+  .polygon-icon {
+    border-radius: var(--br-lg);
+    width: 48.9px;
+    height: 54.63px;
+    position: absolute;
+    top: 22.68px;
+    left: 31.7px;
+  }
+
+  .next-b {
+    width: 28.55px;
+    height: 22.69px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 38.8px;
+    left: 35.87px;
+  }
+
+  .group-div52 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 319px;
+    box-shadow: 1px 5px 8px #65617d33;
+  }
+
+  .polygon-icon1 {
+    border-radius: var(--br-lg);
+    width: 48.9px;
+    height: 54.63px;
+    position: absolute;
+    top: 22.68px;
+    left: 19.4px;
+  }
+
+  .prev-b {
+    width: 32.21px;
+    height: 19.77px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 40.26px;
+    left: 33.67px;
+  }
+
+  .group-div43, .group-div53, .group-div54 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .group-div43, .group-div53 {
+    top: 100px;
+  }
+
+  .group-div43 {
+    width: 419px;
+    height: 300px;
+    text-align: center;
+    font-size: var(--font-size-xs);
+    color: var(--color-white);
+    top: 150px;
+    left: 117px;
+  }
+
+  .more-coming-soon {
+    font-size: var(--font-size-xl);
+    text-align: right;
+    width: 162px;
+    height: 40px;
+    align-items: center;
+    font-weight: 900;
+    display: flex;
+    position: absolute;
+    top: 477px;
+    left: 354px;
+  }
+
+  .group-div41 {
+    width: 536px;
+    height: 560px;
+    font-size: var(--font-size-7xl);
+    position: absolute;
+    top: 970px;
+    left: -116px;
+  }
+
+  .group-icon23 {
+    width: 414px;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .online-training-to-boost-your, .online-training-to-help-you-st {
+    width: 380px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    left: 0;
+  }
+
+  .online-training-to-help-you-st {
+    height: 120px;
+    font-weight: 900;
+    top: 0;
+  }
+
+  .online-training-to-boost-your {
+    font-size: var(--font-size-xl);
+    height: 40px;
+    top: 130px;
+  }
+
+  .group-div57 {
+    width: 190px;
+    height: 40px;
+    text-align: center;
+    font-size: var(--font-size-base);
+    position: absolute;
+    top: 190px;
+    left: 0;
+  }
+
+  .group-div56 {
+    width: 380px;
+    height: 230px;
+    font-size: var(--font-size-7xl);
+    color: var(--color-white);
+    position: absolute;
+    top: 120px;
+    left: 20px;
+  }
+
+  .group-icon24, .group-icon25 {
+    height: 32%;
+    width: 80.09%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    inset: 41.71% 19.91% 26.29% 0;
+    overflow: hidden;
+  }
+
+  .group-icon25 {
+    height: 22.63%;
+    width: 42.27%;
+    inset: 51.54% 0 25.83% 57.73%;
+  }
+
+  .mask-group-icon6 {
+    width: 128.65px;
+    height: 120px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .chef-earns-upto-30k-monthly, .rakhi-dasgupta-b {
+    width: 185px;
+    height: 25px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .chef-earns-upto-30k-monthly {
+    font-size: var(--font-size-xs);
+    width: 165px;
+    height: 15px;
+    top: 25px;
+  }
+
+  .group-div59, .group-div60 {
+    width: 185px;
+    height: 40px;
+    position: absolute;
+    top: 125px;
+    left: 0;
+  }
+
+  .group-div59 {
+    height: 165px;
+    top: 595px;
+    left: 40px;
+  }
+
+  .mask-group-icon7 {
+    width: 152.16px;
+    height: 150px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .microentrepreneur-earns-upto {
+    font-size: var(--font-size-xs);
+    width: 175px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 25px;
+    left: 0;
+  }
+
+  .group-div61, .group-div62 {
+    width: 185px;
+    height: 55px;
+    position: absolute;
+    top: 151px;
+    left: 0;
+  }
+
+  .group-div61 {
+    height: 206px;
+    top: 635px;
+    left: 221px;
+  }
+
+  .group-icon26, .group-icon27 {
+    height: 2.86%;
+    width: 3.62%;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    inset: 97.14% 91.55% 0 4.83%;
+    overflow: hidden;
+  }
+
+  .group-icon27 {
+    height: 3.43%;
+    width: 23.19%;
+    top: 2.29%;
+    bottom: 94.29%;
+    right: 71.98%;
+  }
+
+  .group-div55 {
+    width: 414px;
+    height: 875px;
+    font-size: var(--font-size-xl);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .mobile-home-full-page {
+    background-color: var(--color-white);
+    width: 100%;
+    height: 4500px;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-200);
+    font-family: var(--font-gt-walsheim-pro);
+    position: relative;
+    overflow: hidden;
+  }
+}
+
+/*# sourceMappingURL=index.2ace685c.css.map */
