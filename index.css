@@ -1,0 +1,1342 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+body {
+  margin: 0;
+  line-height: normal;
+  font-family:  'Roboto', sans-serif !important ; 
+}
+
+.video{
+  width: 100%;
+  height:100% ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(27, 27, 29);
+}
+#back-btn{
+  background-color: lightcoral;
+  color: #fff;
+  padding: 10px 15px;
+  margin: 10px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: 400;
+}
+#modal{
+  width: 90%;
+  height: 80%;
+  position: fixed;
+  top:50px;
+  left: 50%;
+  translate: -50% 0;
+  background-color: rgb(27, 27, 29);
+  display: none;
+ 
+}
+
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 450px;
+  height: 60px;
+}
+.enter-your-phone-number {
+  position: absolute;
+  top: 10px;
+  left: 55px;
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+  width: 210px;
+  height: 40px;
+}
+.group-div,
+.group-icon {
+  position: absolute;
+  top: 33.33%;
+  left: 4.44%;
+  width: 0;
+  height: 0;
+}
+.group-div {
+  top: 3860px;
+  left: 728px;
+  width: 450px;
+  height: 60px;
+  display: none;
+}
+.group-div1,
+.group-icon1 {
+  position: absolute;
+  top: 38.33%;
+  left: 4.44%;
+  width: 0;
+  height: 0;
+}
+.group-div1 {
+  top: 3940px;
+  left: 728px;
+  width: 450px;
+  height: 60px;
+  display: none;
+}
+.mask-group-icon,
+.mask-group-icon1 {
+  position: absolute;
+  top: 1390px;
+  left: 130px;
+  width: 320px;
+  height: 220px;
+  object-fit: cover;
+  display: none;
+}
+.mask-group-icon1 {
+  top: 1070px;
+  left: 542px;
+  width: 220px;
+  height: 200px;
+}
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 132.35px;
+}
+.create-your-own-online-brand {
+  position: absolute;
+  top: 38px;
+  left: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 107px;
+  height: 56px;
+}
+.group-div3 {
+  position: absolute;
+  top: 137px;
+  left: 50px;
+  width: 0;
+  height: 0;
+  color: var(--color-white);
+}
+.vector-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 130.95px;
+  height: 120px;
+}
+.sell-from-home-kitchen {
+  position: absolute;
+  top: 27px;
+  left: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 106px;
+  height: 66px;
+}
+.group-div4 {
+  position: absolute;
+  top: 184px;
+  left: 222px;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-2xs);
+}
+.resell-and-earn,
+.vector-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 200px;
+}
+.resell-and-earn {
+  top: 52.13px;
+  left: 44.47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 121.14px;
+  height: 81.27px;
+}
+.group-div5 {
+  position: absolute;
+  top: 285px;
+  left: 0;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-base);
+}
+.vector-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 158.27px;
+}
+.become-an-online-influencer {
+  position: absolute;
+  top: 45.33px;
+  left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 68px;
+}
+.group-div6 {
+  position: absolute;
+  top: 68px;
+  left: 340px;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-sm);
+}
+.vector-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120px;
+  height: 89px;
+}
+.learn-marketing-b {
+  position: absolute;
+  top: 21px;
+  left: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 84px;
+  height: 48px;
+}
+.group-div7,
+.vector-icon5 {
+  position: absolute;
+  top: 435px;
+  left: 140px;
+  width: 0;
+  height: 0;
+}
+.vector-icon5 {
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 111.62px;
+}
+.create-an-infoor-farm {
+  position: absolute;
+  top: 28.67px;
+  left: 16.67px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 66.67px;
+  height: 54.67px;
+}
+.group-div8 {
+  position: absolute;
+  top: 344px;
+  left: 260px;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-3xs);
+}
+.vector-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 128.08px;
+}
+.making-and-selling-soaps {
+  position: absolute;
+  top: 41px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 130px;
+  height: 46px;
+}
+.group-div9 {
+  position: absolute;
+  top: 245px;
+  left: 360px;
+  width: 0;
+  height: 0;
+  color: var(--color-white);
+}
+.baking-course,
+.vector-icon7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100.15px;
+  height: 100px;
+}
+.baking-course {
+  top: 25px;
+  left: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 65px;
+  height: 50px;
+}
+.group-div10 {
+  position: absolute;
+  top: 480px;
+  left: 275px;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+}
+.vector-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 180.61px;
+}
+.become-a-makeup-artist {
+  position: absolute;
+  top: 55px;
+  left: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 93px;
+  height: 70px;
+}
+.group-div11 {
+  position: absolute;
+  top: 377px;
+  left: 390px;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-sm);
+}
+.nutritionist-b,
+.vector-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120px;
+  height: 121.71px;
+}
+.nutritionist-b {
+  top: 51px;
+  left: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 86px;
+  height: 20px;
+}
+.group-div12 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-2xs);
+}
+.vector-icon10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100.68px;
+  height: 150px;
+}
+.become-an-insurance-agent {
+  position: absolute;
+  top: 44px;
+  left: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76px;
+  height: 63px;
+}
+.group-div13 {
+  position: absolute;
+  top: 5px;
+  left: 210px;
+  width: 0;
+  height: 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.group-div2 {
+  position: absolute;
+  top: 1023px;
+  left: 850px;
+  width: 390px;
+  height: 480px;
+  display: none;
+  text-align: center;
+  font-size: var(--font-size-xs);
+}
+.about-us-div,
+.contact-us-div,
+.courses-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 74px;
+  height: 30px;
+}
+.about-us-div,
+.contact-us-div {
+  left: 124px;
+  width: 81px;
+}
+.contact-us-div {
+  left: 255px;
+  width: 101px;
+}
+.group-div14,
+.group-div15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+}
+.group-div14 {
+  top: 40px;
+  left: 1034px;
+  display: none;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.group-icon2 {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1649.81px;
+  height: 809.81px;
+}
+.steps-to-start-earning-with-br {
+  position: absolute;
+  top: 39px;
+  left: 190px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 890px;
+  height: 80px;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-brown-100);
+  width: 5px;
+  height: 150px;
+}
+.find-a-course-which-matches-yo,
+.pick-a-course {
+  position: absolute;
+  left: 30px;
+  display: flex;
+  align-items: center;
+}
+.pick-a-course {
+  top: 0;
+  font-weight: 900;
+  width: 247px;
+  height: 40px;
+}
+.find-a-course-which-matches-yo {
+  top: 50px;
+  font-size: var(--font-size-base);
+  text-align: justify;
+  width: 380px;
+  height: 100px;
+}
+.group-div18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 410px;
+  height: 150px;
+  color: var(--color-gray-200);
+}
+.learn-the-required-basics-pra,
+.start-learning-div {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.start-learning-div {
+  top: 0;
+  font-weight: 900;
+  width: 247px;
+  height: 40px;
+}
+.learn-the-required-basics-pra {
+  top: 50px;
+  font-size: var(--font-size-base);
+  text-align: justify;
+  width: 380px;
+  height: 100px;
+}
+.group-div19 {
+  position: absolute;
+  top: 210px;
+  left: 30px;
+  width: 380px;
+  height: 150px;
+}
+.earn-money-div,
+.start-your-home-business-to-ad {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.earn-money-div {
+  top: 0;
+  font-weight: 900;
+  width: 343px;
+  height: 40px;
+}
+.start-your-home-business-to-ad {
+  top: 50px;
+  font-size: var(--font-size-base);
+  text-align: justify;
+  width: 380px;
+  height: 50px;
+}
+.group-div17,
+.group-div20 {
+  position: absolute;
+  top: 420px;
+  left: 30px;
+  width: 380px;
+  height: 100px;
+}
+.group-div17 {
+  top: 159px;
+  left: 190px;
+  width: 410px;
+  height: 520px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-100);
+}
+.group-icon3 {
+  position: absolute;
+  height: 41.49%;
+  width: 48.49%;
+  top: 31.24%;
+  right: 15.14%;
+  bottom: 27.27%;
+  left: 36.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div16 {
+  position: absolute;
+  top: 2671px;
+  left: -80px;
+  width: 1649.81px;
+  height: 809.81px;
+  font-size: var(--font-size-3xl);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 109px;
+  width: 1658.55px;
+  height: 753.15px;
+}
+.group-icon4,
+.group-icon5 {
+  position: absolute;
+  top: 393px;
+  left: 171px;
+  width: 132px;
+  height: 134px;
+}
+.group-icon5 {
+  top: 42px;
+  left: 109px;
+  width: 292px;
+  height: 194.75px;
+}
+.become-self-reliant {
+  position: absolute;
+  top: 143px;
+  left: 219px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 570px;
+  height: 80px;
+}
+.group-icon6 {
+  position: absolute;
+  top: 13.02px;
+  left: 788.99px;
+  width: 710.58px;
+  height: 699.94px;
+  object-fit: cover;
+}
+.start-your-own-business-or-ser {
+  position: absolute;
+  top: 223px;
+  left: 219px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  width: 520px;
+  height: 70px;
+}
+.rectangle-div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-brown-100);
+  width: 150px;
+  height: 60px;
+}
+.see-how-b {
+  position: absolute;
+  top: 10px;
+  left: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 92px;
+  height: 40px;
+}
+.group-div22 {
+  position: absolute;
+  top: 323px;
+  left: 219px;
+  width: 150px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.vector-icon11 {
+  position: absolute;
+  top: 444px;
+  left: 219px;
+  width: 180px;
+  height: 175.27px;
+  object-fit: cover;
+}
+.banker-earns-upto-25k-monthly,
+.rahul-mahajan-b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 185px;
+  height: 30px;
+}
+.banker-earns-upto-25k-monthly {
+  top: 30px;
+  font-size: var(--font-size-xs);
+  width: 360px;
+  height: 19px;
+}
+.group-div21,
+.group-div23 {
+  position: absolute;
+  top: 619px;
+  left: 309px;
+  width: 360px;
+  height: 49px;
+  font-size: var(--font-size-lg);
+}
+.group-div21 {
+  top: 1780px;
+  left: -109px;
+  width: 1658.55px;
+  height: 753.15px;
+  font-size: var(--font-size-3xl);
+}
+.yukti-div {
+  position: absolute;
+  top: 20px;
+  left: 55px;
+  display: flex;
+  align-items: center;
+  width: 117px;
+  height: 30px;
+}
+.group-icon7,
+.layer-1-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+}
+.layer-1-div {
+  top: 40px;
+  left: 110px;
+  width: 172px;
+  height: 50px;
+  display: none;
+  font-size: 40px;
+  color: var(--color-white);
+}
+.group-icon8,
+.group-icon9 {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 1946.71px;
+  height: 1023px;
+}
+.group-icon9 {
+  top: -29.99px;
+  left: -0.01px;
+  width: 555.63px;
+  height: 479.95px;
+  object-fit: cover;
+}
+.start-learning-today {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 560px;
+  height: 80px;
+}
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-brown-100);
+  width: 280px;
+  height: 60px;
+}
+.book-a-free-consultation {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 40px;
+}
+.group-div28 {
+  position: absolute;
+  top: 180px;
+  left: 0;
+  width: 280px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.talk-to-our-experts-and-start {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  width: 520px;
+  height: 70px;
+}
+.group-div27 {
+  position: absolute;
+  top: 95px;
+  left: 618px;
+  width: 560px;
+  height: 240px;
+}
+.group-div26,
+.group-icon10 {
+  position: absolute;
+  top: 70px;
+  left: 182px;
+  width: 1178px;
+  height: 440px;
+}
+.group-icon10 {
+  top: 755px;
+  left: 1404px;
+  width: 58.25px;
+  height: 40px;
+}
+.group-div24,
+.group-div25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1946.71px;
+  height: 1023px;
+}
+.group-div24 {
+  top: 3600px;
+  left: -72px;
+  font-size: var(--font-size-3xl);
+}
+.layer-2-icon {
+  position: absolute;
+  top: 0.89%;
+  left: 7.64%;
+  width: 0;
+  height: 0;
+  display: none;
+}
+.group-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 750px;
+}
+.group-icon12,
+.group-icon13 {
+  position: absolute;
+  height: 70.5%;
+  width: 46.57%;
+  top: 14.47%;
+  right: 0.97%;
+  bottom: 15.03%;
+  left: 52.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon13 {
+  height: 40.08%;
+  width: 16.71%;
+  top: 46.88%;
+  bottom: 13.04%;
+  left: 82.32%;
+}
+.mask-group-icon2,
+.mask-group-icon3 {
+  position: absolute;
+  top: 480px;
+  left: 960px;
+  width: 253.6px;
+  height: 250px;
+  object-fit: cover;
+}
+.mask-group-icon3 {
+  left: 690px;
+  width: 214.42px;
+  height: 200px;
+}
+.chef-earns-upto-30k-monthly {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  font-size: var(--font-size-3xs);
+  display: flex;
+  align-items: center;
+  width: 193px;
+  height: 15px;
+}
+.group-div31 {
+  position: absolute;
+  top: 690px;
+  left: 720px;
+  width: 193px;
+  height: 45px;
+}
+.microentrepreneur-earns-upto {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  font-size: var(--font-size-3xs);
+  display: flex;
+  align-items: center;
+  width: 273px;
+  height: 15px;
+}
+.group-div32 {
+  position: absolute;
+  top: 740px;
+  left: 1040px;
+  width: 273px;
+  height: 45px;
+}
+.group-div30,
+.group-icon14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1454.13px;
+  height: 785px;
+}
+.group-icon14 {
+  height: 6.37%;
+  width: 11%;
+  top: 5.1%;
+  right: 81.43%;
+  bottom: 88.54%;
+  left: 7.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.online-training-to-help-you-st {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 580px;
+  height: 112px;
+}
+.online-training-to-boost-your {
+  position: absolute;
+  top: 122px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  display: flex;
+  align-items: center;
+  width: 550px;
+  height: 29px;
+}
+.group-div34,
+.group-div35 {
+  position: absolute;
+  left: 0;
+  height: 60px;
+}
+.group-div34 {
+  top: 171px;
+  width: 280px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.group-div35 {
+  top: 212px;
+  width: 450px;
+  display: none;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.group-div33 {
+  position: absolute;
+  top: 199px;
+  left: 110px;
+  width: 580px;
+  height: 231px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+}
+.vector-icon12 {
+  position: absolute;
+  height: 3.82%;
+  width: 1.03%;
+  top: 96.18%;
+  right: 91.4%;
+  bottom: 0;
+  left: 7.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1454.13px;
+  height: 785px;
+  font-size: var(--font-size-base);
+}
+.privacy-policy-div,
+.terms-and-conditions {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 113px;
+  height: 30px;
+}
+.terms-and-conditions {
+  left: 163px;
+  width: 167px;
+}
+.group-div36,
+.yukti-all-right-reserved {
+  position: absolute;
+  top: 4242px;
+  left: 555px;
+  width: 330px;
+  height: 30px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.yukti-all-right-reserved {
+  top: 4370px;
+  left: 600px;
+  font-size: var(--font-size-xs);
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 241px;
+  height: 40px;
+}
+.mask-group-icon4 {
+  position: absolute;
+  top: 0;
+  left: 365px;
+  width: 0;
+  height: 0;
+  object-fit: cover;
+}
+.resell-and-earn1 {
+  position: absolute;
+  top: 70px;
+  left: 455px;
+  display: flex;
+  align-items: center;
+  width: 70px;
+  height: 30px;
+}
+.become-a-fashion-designer,
+.become-a-makeup-artist1,
+.become-a-photographer,
+.create-an-indoor-farm {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 110px;
+  height: 30px;
+}
+.become-a-fashion-designer,
+.become-a-photographer,
+.create-an-indoor-farm {
+  top: 576px;
+  left: 10px;
+}
+.become-a-fashion-designer,
+.become-a-photographer {
+  top: 532px;
+  left: 280px;
+  width: 133px;
+}
+.become-a-photographer {
+  top: 480px;
+  left: 510px;
+}
+.mask-group-icon5 {
+  position: absolute;
+  top: 440px;
+  left: 191px;
+  width: 0;
+  height: 0;
+  object-fit: cover;
+}
+.group-div37 {
+  position: absolute;
+  top: 2771px;
+  left: 628px;
+  width: 643px;
+  height: 606px;
+  display: none;
+  font-size: var(--font-size-3xs);
+}
+.group-icon16,
+.group-icon17 {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  width: 400px;
+  height: 400px;
+}
+.group-icon17 {
+  top: 299px;
+  left: 1080px;
+  width: 351px;
+  height: 350px;
+}
+.find-what-matches-your-interes,
+.more-coming-soon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  width: 870px;
+  height: 50px;
+}
+.more-coming-soon {
+  top: 572px;
+  left: 999px;
+  font-size: var(--font-size-xl);
+  text-align: right;
+  width: 261px;
+  height: 30px;
+}
+.group-div39 {
+  position: absolute;
+  top: 19px;
+  left: 170px;
+  width: 1260px;
+  height: 602px;
+  font-size: var(--font-size-3xl);
+}
+.rectangle-div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 2px 10px 16px rgba(101, 97, 125, 0.2);
+  width: 300px;
+  height: 400px;
+}
+.book-now-div,
+.create-own-food-business-by-us {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 260px;
+  height: 60px;
+}
+.book-now-div {
+  top: 0;
+  font-weight: 900;
+  width: 88px;
+  height: 20px;
+}
+.book-now-div:hover{
+  cursor: pointer;
+}
+.group-icon18 {
+  position: absolute;
+  height: 50%;
+  width: 20.51%;
+  top: 25%;
+  right: 0;
+  bottom: 25%;
+  left: 79.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div42 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  width: 117px;
+  height: 20px;
+  color: var(--color-brown-200);
+}
+.group-div41,
+.group-icon19 {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 260px;
+  height: 160px;
+}
+.group-icon19 {
+  height: 37.5%;
+  width: 81.61%;
+  top: 57.5%;
+  right: 9.06%;
+  bottom: 5%;
+  left: 9.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div40 {
+  position: absolute;
+  top: 159px;
+  left: 500px;
+  width: 300px;
+  height: 400px;
+}
+.learn-how-to-sell-products-onl,
+.learn-online-selling {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+  height: 60px;
+}
+.learn-online-selling {
+  top: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  width: 221px;
+}
+.learn-how-to-sell-products-onl {
+  top: 70px;
+  width: 262px;
+}
+.group-div44,
+.group-icon21 {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 262px;
+  height: 160px;
+}
+.group-icon21 {
+  height: 37.51%;
+  width: 72.83%;
+  top: 57.49%;
+  right: 13.51%;
+  bottom: 5%;
+  left: 13.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div43 {
+  position: absolute;
+  top: 159px;
+  left: 170px;
+  width: 300px;
+  height: 400px;
+}
+.resell-and-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.earn-p {
+  margin: 0;
+}
+.resell-and-earn-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.dont-have-a-product-to-sell {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 263px;
+  height: 59px;
+}
+.group-div47,
+.group-icon23 {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 263px;
+  height: 160px;
+}
+.group-icon23 {
+  height: 37.5%;
+  width: 68.89%;
+  top: 57.5%;
+  right: 15.45%;
+  bottom: 5%;
+  left: 15.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div46 {
+  position: absolute;
+  top: 159px;
+  left: 830px;
+  width: 300px;
+  height: 400px;
+}
+.have-a-business-learn-how-to,
+.learn-marketing-div {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 260px;
+  height: 60px;
+}
+.learn-marketing-div {
+  top: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+}
+.have-a-business-learn-how-to {
+  top: 70px;
+  text-align: justify;
+}
+.group-div50,
+.group-icon25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 400px;
+}
+.group-icon25 {
+  height: 37.5%;
+  width: 95.76%;
+  top: 57.5%;
+  right: 2.24%;
+  bottom: 5%;
+  left: 2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div38,
+.group-div49 {
+  position: absolute;
+  top: 159px;
+  left: 1160px;
+  width: 300px;
+  height: 400px;
+}
+.group-div38 {
+  top: 941px;
+  left: -60px;
+  width: 1460px;
+  height: 649px;
+}
+.home-page-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4500px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-gt-walsheim-pro);
+}
